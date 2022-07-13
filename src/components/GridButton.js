@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 
 function GridButton({ text, type, special, actions, operator }) {
   function onClick() {
